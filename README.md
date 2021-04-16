@@ -26,9 +26,9 @@
   </em> 
   <br>
   <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /> <b><i>MOTTO : Data has a better Idea</i></b> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />
-</p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=OvinduWijethunge&label=Profile%20views&color=0e75b6&style=flat" alt="ovindu-watchers" /> </p>
+</p><br><br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=OvinduWijethunge&style=flat-square" alt="ovindu-watchers" />
+<br><br>
 <img align="right" width=200px height=200px alt="Unicorn" src="https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif" />
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Talking about Personal Stuffs...***
@@ -71,6 +71,8 @@
  
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=OvinduWijethunge&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=OvinduWijethunge&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
+<br><br><br><br><br><br><br><br>
+
 <hr>
 
 
