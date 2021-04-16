@@ -28,10 +28,10 @@
   <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /> <b><i>MOTTO : Data has a better Idea</i></b> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=OvinduWijethunge&label=Profile%20views&color=green&style=plastic" alt="ovi" /> </p>
-<img align="right" width=200px height=300px alt="Unicorn" src="https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif" />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=OvinduWijethunge&label=Profile%20views&color=0e75b6&style=flat" alt="ovindu-watchers" /> </p>
+<img align="right" width=200px height=200px alt="Unicorn" src="https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif" />
 
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Talking about Personal Stuffs...***
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Talking about Personal Stuffs...***
 
 ✔ Callme: ***He/His*** or ***TeamWorker*** 😊 <br>
 ✔ I’m currently Developing a youtube spams comments filtering tool for **Sinhala language**<br>
@@ -41,7 +41,7 @@
 ✔ Fun fact : *I Always try to learn something new and then sleep till it store in the brain* 😎<br><br><br><br>
  
 
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Languages & Tools I Know..+.***
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Languages & Tools I Know...***
 <p align="left">
   
   <code><img height="50" src="https://github.com/uannabi/-/blob/master/resource/git.svg"></code>
@@ -67,7 +67,7 @@
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"> </code>
   <hr>
   <p align="center">
- <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats</b></i><img     src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/></p>
+ <img src="https://media.giphy.com/media/gJtRQioW5Spv6qRyxR/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i><img     src="https://media.giphy.com/media/gJtRQioW5Spv6qRyxR/giphy.gif" width="30px" alt="Git"/></p>
  
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=OvinduWijethunge&show_icons=true&locale=en&layout=compact" alt="ovi" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=OvinduWijethunge&show_icons=true&locale=en" alt="ovi" width="410" /></p>
