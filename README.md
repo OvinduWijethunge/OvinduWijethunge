@@ -69,9 +69,8 @@
   <p align="center">
  <img src="https://media.giphy.com/media/gJtRQioW5Spv6qRyxR/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i><img     src="https://media.giphy.com/media/gJtRQioW5Spv6qRyxR/giphy.gif" width="30px" alt="Git"/></p>
  
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=OvinduWijethunge&show_icons=true&locale=en&layout=compact" alt="ovi" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=OvinduWijethunge&show_icons=true&locale=en" alt="ovi" width="410" /></p>
-
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=OvinduWijethunge&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=OvinduWijethunge&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
 <hr>
 
 
