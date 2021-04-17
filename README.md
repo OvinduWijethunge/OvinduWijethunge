@@ -2,7 +2,15 @@
   <img src="https://s27389.pcdn.co/wp-content/uploads/2019/08/AdobeStock_244675452.jpeg" height="200"/>
 </p>
 <br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=OvinduWijethunge&color=brightgreen&style=plastic" alt="watching_count" />
+
+<p align="left"> 
+<img src="https://komarev.com/ghpvc/?username=OvinduWijethunge&color=brightgreen" alt="watching_count" />
+ </p>
+ <p align="center">
+<img src="https://img.shields.io/badge/Age-26-blue" />
+  <img src="https://img.shields.io/badge/Focus-Machine%20Learning-brightgreen" />
+  <img src="https://img.shields.io/badge/Lives-Sri%20Lanka-success" />
+</p>
 <hr>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Ovindu Wijethunge </h1>
 <h3 align="center">Machine Learning Engineer | Data Scientist </h3>
@@ -66,7 +74,7 @@
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"> </code>
   <hr>
   <p align="center">
- <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i><img     src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/></p>
+ <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
  
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=OvinduWijethunge&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=OvinduWijethunge&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
@@ -75,8 +83,9 @@
 <hr>
 
 
-<p align="left"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="50" />&nbsp;Git profile Trophies</p><br>
+<p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
 <img src="https://github-profile-trophy.vercel.app/?username=OvinduWijethunge&theme=juicyfresh&no-bg=true" />
+
 
 
 
