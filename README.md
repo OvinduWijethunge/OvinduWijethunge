@@ -23,9 +23,9 @@
     with the <b>Data science</b> and always lookig for find patterns of which are hidden in the data 
   </em> 
   <br>
-  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /> <b><i>MOTTO : Data has a better Idea</i></b> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />
+  <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> <b><i align="center">Thought : "Life is full of choices…choose wisely!”</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
 </p><br><br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=OvinduWijethunge&style=flat-square" alt="ovindu-watchers" />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=OvinduWijethunge&color=brightgreen&style=plastic" alt="watching_count" />
 <br><br>
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
@@ -65,7 +65,7 @@
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"> </code>
   <hr>
   <p align="center">
- <img src="https://media.giphy.com/media/gJtRQioW5Spv6qRyxR/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i><img     src="https://media.giphy.com/media/gJtRQioW5Spv6qRyxR/giphy.gif" width="30px" alt="Git"/></p>
+ <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i><img     src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/></p>
  
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=OvinduWijethunge&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=OvinduWijethunge&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
