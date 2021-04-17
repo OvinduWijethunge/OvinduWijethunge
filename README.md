@@ -1,6 +1,8 @@
 <p align="center">
   <img src="https://s27389.pcdn.co/wp-content/uploads/2019/08/AdobeStock_244675452.jpeg" height="200"/>
 </p>
+<br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=OvinduWijethunge&color=brightgreen&style=plastic" alt="watching_count" />
 <hr>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Ovindu Wijethunge </h1>
 <h3 align="center">Machine Learning Engineer | Data Scientist </h3>
@@ -24,8 +26,7 @@
   </em> 
   <br>
   <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> <b><i align="center">Thought : "Life is full of choices…choose wisely!”</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
-</p><br><br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=OvinduWijethunge&color=brightgreen&style=plastic" alt="watching_count" />
+</p>
 <br><br>
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
