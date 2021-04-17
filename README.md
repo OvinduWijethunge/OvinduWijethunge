@@ -75,8 +75,9 @@
 <hr>
 
 
-#### Want to Build Your Own?
-[![trophy](https://github-profile-trophy.vercel.app/?username=OvinduWijethunge&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="left"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="50" />&nbsp;Git profile Trophies</p><br>
+<img src="https://github-profile-trophy.vercel.app/?username=OvinduWijethunge&theme=juicyfresh&no-bg=true" />
+
 
 
 
