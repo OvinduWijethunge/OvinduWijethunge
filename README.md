@@ -8,13 +8,13 @@
  </p>
  <p align="center">
 <img src="https://img.shields.io/badge/Age-26-blue" />
-  <img src="https://img.shields.io/badge/Focus-Machine%20Learning-brightgreen" />
+  <img src="https://img.shields.io/badge/Focus-Software%20Engineering-brightgreen" />
   <img src="https://img.shields.io/badge/Lives-Sri%20Lanka-success" />
   <img src="https://img.shields.io/badge/Languages-English%20%26%20Sinhala-brightgreen" />
 </p>
 <hr>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Ovindu Wijethunge </h1>
-<h3 align="center">Machine Learning Engineer | Data Scientist </h3>
+<h3 align="center">Software Engineer | Data Science Enthusiastic </h3>
 <p align="center">
 <a href="https://www.hackerrank.com/OvinduWijethunge" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="hack_ovindu" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/ovinduwijethunge/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174857.png" alt="lin_ovindu" height="30" width="40" /></a>  
@@ -30,7 +30,7 @@
 <p align="center">
   <em>
     Hello, I am Ovindu Wijethunge a <b>final year</b> undergraduate from <a href="https://uom.lk/"> <b>University Of Moratuwa</b>, Sri-Lanka (" Wisdom is all wealth ")</a>. <br>
-    <b>a passionate self learner</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Machine Learning Engineer</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
+    <b>a passionate self learner</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Software  Engineer</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
     with the <b>Data science</b> and always lookig for find patterns of which are hidden in the data 
   </em> 
   <br>
@@ -42,9 +42,9 @@
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
 
 ✔ Callme: ***He/His*** or ***TeamWorker*** 😊 <br>
-✔ I’m currently Developing a youtube spams comments filtering tool for **Sinhala language**<br>
+✔ I’m currently enhancing my dot NET knowladge by doing online courses and small projects<br>
 ✔ I’m currently learning about **deep learning**🥰<br>
-✔ I’m looking to collaborate with any **Open - Source data science projects**<br>
+✔ I’m looking to collaborate with any **organization which is like to hire a passionate software engineer**<br>
 ✔ Ask from me anything you want, If I am alive I will answer within seconds 😉<br>
 ✔ Fun fact : *I Always try to learn something new and then sleep till it store in the brain* 😎<br><br><br><br>
  
@@ -92,7 +92,7 @@
 -----
 Credits: [Ovindu Wijethunge](https://github.com/OvinduWijethunge)
 
-Last Edited on: 01/05/2021
+Last Edited on: 08/09/2021
 
 
 
